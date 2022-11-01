@@ -1,4 +1,4 @@
 # Algorithms
 
-Bubble sort
-Binary Search Tree (Incomplete)
+-Bubble sort
+-Binary Search Tree (Incomplete)
