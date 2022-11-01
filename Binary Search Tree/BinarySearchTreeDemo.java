@@ -1,7 +1,14 @@
 
-public class binarySearch {
+public class BinarySearchTreeDemo {
 
     public static void main(String args[]) {
+
+        runDemo();
+        
+    }
+
+    // Incomplete Demo
+    public static void runDemo() {
 
         BinaryTree tree = new BinaryTree();
 
@@ -9,7 +16,6 @@ public class binarySearch {
 
         tree.addNode(masterNode);
 
-        System.out.println("Hello World!");
         System.out.println(tree.masterNode.number);
     }
 }
